@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1580791714 source:c:\users\mohammad\desktop\client\client\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	"cJSON.h"
+	"cJSON.c"
+	<time.h>
+
+1576229369 c:\users\mohammad\desktop\client\client\cjson.h
+	<stddef.h>
+
+1576229370 c:\users\mohammad\desktop\client\client\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+

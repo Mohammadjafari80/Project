@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580789175 source:c:\users\mohammad\desktop\nojson\client\client\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<time.h>
+
